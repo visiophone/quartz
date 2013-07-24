@@ -1,10 +1,10 @@
 Collection of Quartz Composer pathches.
 
-In many of them you will need Kineme  (http://kineme.net/downloads) and 1024 (http://1024d.wordpress.com/qc-plugins/) plugins
+In many of them you will need Kineme  (http://kineme.net/downloads) and 1024 (http://1024d.wordpress.com/qc-plugins/) plugins.
+
 
 Index:
 
-[SpaceCreature.qtz]
-Mde for BorisChimp504 live A/V. Built from several replications of GLSlines.
+"SpaceCreature.qtz" [Made for BorisChimp504 live A/V. Built from several replications of GLSlines]
 
 ======
