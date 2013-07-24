@@ -1,5 +1,4 @@
 Collection of Quartz Composer pathches.
-
 In many of them you will need Kineme  (http://kineme.net/downloads) and 1024 (http://1024d.wordpress.com/qc-plugins/) plugins.
 
 
